@@ -1,2 +1,3 @@
 # Xml2Xls
 Xml to Xls Converter with UI
+This desktop application is a converter that Xml to Xls file with UI. Used libraries are XmlEtree, xlsxwriter, PyQt5, tkinter.
